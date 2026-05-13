@@ -464,8 +464,8 @@
         "usd": 0.75
     },
     "phantom": {
-        "val": 42,
-        "usd": 0.75
+        "val": 8,
+        "usd": 0
     },
     "spectre": {
         "val": 42,
@@ -717,7 +717,7 @@
     },
     "snowflake": {
         "val": 5,
-        "usd": 0.5
+        "usd": 0
     },
     "winter&#039;sedge": {
         "val": 5,
@@ -754,5 +754,745 @@
     "yellowseer": {
         "val": 2,
         "usd": 0.1
+    },
+    "jd": {
+        "val": 35,
+        "usd": 0
+    },
+    "lattegun": {
+        "val": 130,
+        "usd": 0
+    },
+    "latteknife": {
+        "val": 130,
+        "usd": 0
+    },
+    "cottoncandy": {
+        "val": 40,
+        "usd": 0
+    },
+    "beach": {
+        "val": 30,
+        "usd": 0
+    },
+    "travelergun": {
+        "val": 25,
+        "usd": 0
+    },
+    "spectralknife": {
+        "val": 20,
+        "usd": 0
+    },
+    "vampiregun": {
+        "val": 7,
+        "usd": 0
+    },
+    "auroragun": {
+        "val": 1,
+        "usd": 0
+    },
+    "cavernknife": {
+        "val": 7,
+        "usd": 0
+    },
+    "skulls": {
+        "val": 10,
+        "usd": 0
+    },
+    "broken": {
+        "val": 7,
+        "usd": 0
+    },
+    "gingergun": {
+        "val": 6,
+        "usd": 0
+    },
+    "arcticgun": {
+        "val": 5,
+        "usd": 0
+    },
+    "icedriller": {
+        "val": 5,
+        "usd": 0
+    },
+    "nightsky": {
+        "val": 5,
+        "usd": 0
+    },
+    "ghostknife": {
+        "val": 5,
+        "usd": 0
+    },
+    "bunnies": {
+        "val": 4,
+        "usd": 0
+    },
+    "redscratch": {
+        "val": 4,
+        "usd": 0
+    },
+    "vampireknife": {
+        "val": 1,
+        "usd": 0
+    },
+    "witched": {
+        "val": 3,
+        "usd": 0
+    },
+    "blueelite": {
+        "val": 3,
+        "usd": 0
+    },
+    "greenelite": {
+        "val": 3,
+        "usd": 0
+    },
+    "santa&#039;smagic": {
+        "val": 3,
+        "usd": 0
+    },
+    "santa&#039;sspirit": {
+        "val": 3,
+        "usd": 0
+    },
+    "spectralgun": {
+        "val": 2,
+        "usd": 0
+    },
+    "travelerknife": {
+        "val": 2,
+        "usd": 0
+    },
+    "bluescratch": {
+        "val": 2,
+        "usd": 0
+    },
+    "ghostgun": {
+        "val": 2,
+        "usd": 0
+    },
+    "chromaticknife": {
+        "val": 1,
+        "usd": 0
+    },
+    "energizedgun": {
+        "val": 1,
+        "usd": 0
+    },
+    "frostfadeknife": {
+        "val": 1,
+        "usd": 0
+    },
+    "icecracker": {
+        "val": 1,
+        "usd": 0
+    },
+    "redfire": {
+        "val": 1,
+        "usd": 0
+    },
+    "caverngun": {
+        "val": 1,
+        "usd": 0
+    },
+    "caneknife2018": {
+        "val": 525,
+        "usd": 0
+    },
+    "silentnightknife": {
+        "val": 50,
+        "usd": 0
+    },
+    "dungeon": {
+        "val": 40,
+        "usd": 0
+    },
+    "zombified": {
+        "val": 27,
+        "usd": 0
+    },
+    "makeshiftknife": {
+        "val": 25,
+        "usd": 0
+    },
+    "auroraknife": {
+        "val": 13,
+        "usd": 0
+    },
+    "silentnightgun": {
+        "val": 12,
+        "usd": 0
+    },
+    "iciclesgun": {
+        "val": 10,
+        "usd": 0
+    },
+    "darkknife": {
+        "val": 8,
+        "usd": 0
+    },
+    "starrygun": {
+        "val": 8,
+        "usd": 0
+    },
+    "floralknife": {
+        "val": 7,
+        "usd": 0
+    },
+    "swirl": {
+        "val": 7,
+        "usd": 0
+    },
+    "toxicknife": {
+        "val": 7,
+        "usd": 0
+    },
+    "candyswirlgun": {
+        "val": 5,
+        "usd": 0
+    },
+    "magma": {
+        "val": 5,
+        "usd": 0
+    },
+    "jack": {
+        "val": 3,
+        "usd": 0
+    },
+    "magmagun": {
+        "val": 3,
+        "usd": 0
+    },
+    "snakebiteknife": {
+        "val": 3,
+        "usd": 0
+    },
+    "watchergun": {
+        "val": 3,
+        "usd": 0
+    },
+    "monster": {
+        "val": 3,
+        "usd": 0
+    },
+    "bats": {
+        "val": 3,
+        "usd": 0
+    },
+    "greenmarble": {
+        "val": 3,
+        "usd": 0
+    },
+    "sun": {
+        "val": 2,
+        "usd": 0
+    },
+    "orangemarble": {
+        "val": 2,
+        "usd": 0
+    },
+    "toxicgun": {
+        "val": 2,
+        "usd": 0
+    },
+    "ghastlygun": {
+        "val": 1,
+        "usd": 0
+    },
+    "gingerbread": {
+        "val": 1,
+        "usd": 0
+    },
+    "candyswirlknife": {
+        "val": 1,
+        "usd": 0
+    },
+    "snakebitegun": {
+        "val": 1,
+        "usd": 0
+    },
+    "bones": {
+        "val": 1,
+        "usd": 0
+    },
+    "zombifiedknife": {
+        "val": 65,
+        "usd": 0
+    },
+    "gingerbreadknife[xmas2019]": {
+        "val": 50,
+        "usd": 0
+    },
+    "sweaterknife": {
+        "val": 50,
+        "usd": 0
+    },
+    "brains": {
+        "val": 1,
+        "usd": 0
+    },
+    "branches": {
+        "val": 30,
+        "usd": 0
+    },
+    "zombifiedgun": {
+        "val": 15,
+        "usd": 0
+    },
+    "void": {
+        "val": 10,
+        "usd": 0
+    },
+    "zombiegun": {
+        "val": 10,
+        "usd": 0
+    },
+    "frozengun": {
+        "val": 8,
+        "usd": 0
+    },
+    "mummy2018gun": {
+        "val": 8,
+        "usd": 0
+    },
+    "potionknife": {
+        "val": 8,
+        "usd": 0
+    },
+    "lightsgun": {
+        "val": 5,
+        "usd": 0
+    },
+    "potiongun": {
+        "val": 5,
+        "usd": 0
+    },
+    "webs": {
+        "val": 3,
+        "usd": 0
+    },
+    "frozenknife": {
+        "val": 3,
+        "usd": 0
+    },
+    "gingerbreadgun[xmas2019]": {
+        "val": 3,
+        "usd": 0
+    },
+    "mummy2018knife": {
+        "val": 3,
+        "usd": 0
+    },
+    "zombieknife": {
+        "val": 3,
+        "usd": 0
+    },
+    "pumpkinpie": {
+        "val": 3,
+        "usd": 0
+    },
+    "hollygun": {
+        "val": 3,
+        "usd": 0
+    },
+    "potion2017": {
+        "val": 3,
+        "usd": 0
+    },
+    "gothicgun": {
+        "val": 2,
+        "usd": 0
+    },
+    "mummy2017": {
+        "val": 2,
+        "usd": 0
+    },
+    "lightsknife": {
+        "val": 1,
+        "usd": 0
+    },
+    "moons": {
+        "val": 1,
+        "usd": 0
+    },
+    "vampire": {
+        "val": 1,
+        "usd": 0
+    },
+    "wolf": {
+        "val": 1,
+        "usd": 0
+    },
+    "glitch1": {
+        "val": 75,
+        "usd": 0
+    },
+    "glitch2": {
+        "val": 50,
+        "usd": 0
+    },
+    "batsknife": {
+        "val": 110,
+        "usd": 0
+    },
+    "pineknife": {
+        "val": 80,
+        "usd": 0
+    },
+    "giftsknife": {
+        "val": 70,
+        "usd": 0
+    },
+    "ghoulish": {
+        "val": 40,
+        "usd": 0
+    },
+    "sparkle9": {
+        "val": 30,
+        "usd": 0
+    },
+    "sparkle10": {
+        "val": 20,
+        "usd": 0
+    },
+    "sparkle8": {
+        "val": 20,
+        "usd": 0
+    },
+    "sparkle7": {
+        "val": 18,
+        "usd": 0
+    },
+    "snowmangun": {
+        "val": 17,
+        "usd": 0
+    },
+    "wrappedgun": {
+        "val": 17,
+        "usd": 0
+    },
+    "elfknife": {
+        "val": 17,
+        "usd": 0
+    },
+    "frostedknife": {
+        "val": 15,
+        "usd": 0
+    },
+    "rip": {
+        "val": 12,
+        "usd": 0
+    },
+    "sparkle6": {
+        "val": 12,
+        "usd": 0
+    },
+    "coalknife": {
+        "val": 10,
+        "usd": 0
+    },
+    "snowflakesgun": {
+        "val": 10,
+        "usd": 0
+    },
+    "candycorn2017": {
+        "val": 10,
+        "usd": 0
+    },
+    "combatii": {
+        "val": 10,
+        "usd": 0
+    },
+    "prism": {
+        "val": 10,
+        "usd": 0
+    },
+    "sparkle4": {
+        "val": 10,
+        "usd": 0
+    },
+    "skool": {
+        "val": 8,
+        "usd": 0
+    },
+    "sparkle5": {
+        "val": 8,
+        "usd": 0
+    },
+    "tailslide": {
+        "val": 8,
+        "usd": 0
+    },
+    "ollie": {
+        "val": 7,
+        "usd": 0
+    },
+    "sidewinder": {
+        "val": 7,
+        "usd": 0
+    },
+    "pumpkin2019": {
+        "val": 5,
+        "usd": 0
+    },
+    "ecto": {
+        "val": 5,
+        "usd": 0
+    },
+    "zombie": {
+        "val": 5,
+        "usd": 0
+    },
+    "euro": {
+        "val": 4,
+        "usd": 0
+    },
+    "gravegun": {
+        "val": 4,
+        "usd": 0
+    },
+    "sketchy": {
+        "val": 4,
+        "usd": 0
+    },
+    "slimeknife": {
+        "val": 4,
+        "usd": 0
+    },
+    "alex": {
+        "val": 3,
+        "usd": 0
+    },
+    "corl": {
+        "val": 3,
+        "usd": 0
+    },
+    "denis": {
+        "val": 3,
+        "usd": 0
+    },
+    "slimegun": {
+        "val": 3,
+        "usd": 0
+    },
+    "sub": {
+        "val": 3,
+        "usd": 0
+    },
+    "webbedgun": {
+        "val": 3,
+        "usd": 0
+    },
+    "ghosty": {
+        "val": 3,
+        "usd": 0
+    },
+    "sparkle1": {
+        "val": 3,
+        "usd": 0
+    },
+    "sparkle2": {
+        "val": 3,
+        "usd": 0
+    },
+    "sparkle3": {
+        "val": 3,
+        "usd": 0
+    },
+    "asteroid": {
+        "val": 3,
+        "usd": 0
+    },
+    "mummified": {
+        "val": 2,
+        "usd": 0
+    },
+    "candycorn2019": {
+        "val": 2,
+        "usd": 0
+    },
+    "grind": {
+        "val": 2,
+        "usd": 0
+    },
+    "indy": {
+        "val": 2,
+        "usd": 0
+    },
+    "batsgun": {
+        "val": 1,
+        "usd": 0
+    },
+    "graveknife": {
+        "val": 1,
+        "usd": 0
+    },
+    "hauntedgun": {
+        "val": 1,
+        "usd": 0
+    },
+    "hauntedknife": {
+        "val": 1,
+        "usd": 0
+    },
+    "witch": {
+        "val": 1,
+        "usd": 0
+    },
+    "zombiedog": {
+        "val": 775,
+        "usd": 0
+    },
+    "bluepumpkin2018": {
+        "val": 220,
+        "usd": 0
+    },
+    "elf2019": {
+        "val": 200,
+        "usd": 0
+    },
+    "redpumpkin2018": {
+        "val": 120,
+        "usd": 0
+    },
+    "dogey": {
+        "val": 100,
+        "usd": 0
+    },
+    "blackcat": {
+        "val": 75,
+        "usd": 0
+    },
+    "greenpumpkin2018": {
+        "val": 60,
+        "usd": 0
+    },
+    "mr.reindeer": {
+        "val": 30,
+        "usd": 0
+    },
+    "pumpkin2017": {
+        "val": 25,
+        "usd": 0
+    },
+    "piggy": {
+        "val": 20,
+        "usd": 0
+    },
+    "&lt;3": {
+        "val": 10,
+        "usd": 0
+    },
+    "fairy": {
+        "val": 10,
+        "usd": 0
+    },
+    "nobledragon": {
+        "val": 10,
+        "usd": 0
+    },
+    "seahorsey": {
+        "val": 10,
+        "usd": 0
+    },
+    "elf": {
+        "val": 8,
+        "usd": 0
+    },
+    "redpumpkin2020": {
+        "val": 8,
+        "usd": 0
+    },
+    "chilly": {
+        "val": 8,
+        "usd": 0
+    },
+    "greenpumpkin2019": {
+        "val": 8,
+        "usd": 0
+    },
+    "jetstream": {
+        "val": 8,
+        "usd": 0
+    },
+    "pengy": {
+        "val": 8,
+        "usd": 0
+    },
+    "purplepumpkin2018": {
+        "val": 8,
+        "usd": 0
+    },
+    "redpumpkin2019": {
+        "val": 8,
+        "usd": 0
+    },
+    "rudolph": {
+        "val": 8,
+        "usd": 0
+    },
+    "tankie": {
+        "val": 8,
+        "usd": 0
+    },
+    "vampirebat": {
+        "val": 8,
+        "usd": 0
+    },
+    "redpumpkin2021": {
+        "val": 7,
+        "usd": 0
+    },
+    "skully": {
+        "val": 7,
+        "usd": 0
+    },
+    "eyeball": {
+        "val": 7,
+        "usd": 0
+    },
+    "overseereye": {
+        "val": 7,
+        "usd": 0
+    },
+    "reindeer": {
+        "val": 7,
+        "usd": 0
+    },
+    "greenpumpkin2020": {
+        "val": 5,
+        "usd": 0
+    },
+    "greenpumpkin2021": {
+        "val": 5,
+        "usd": 0
+    },
+    "mechbug": {
+        "val": 5,
+        "usd": 0
+    },
+    "ufo": {
+        "val": 4,
+        "usd": 0
+    },
+    "bluepumpkin2020": {
+        "val": 3,
+        "usd": 0
+    },
+    "bluepumpkin2019": {
+        "val": 2,
+        "usd": 0
+    },
+    "shadowpumpkin": {
+        "val": 2,
+        "usd": 0
+    },
+    "mr.snowman": {
+        "val": 1,
+        "usd": 0
+    },
+    "badger": {
+        "val": 1,
+        "usd": 0
     }
 }
