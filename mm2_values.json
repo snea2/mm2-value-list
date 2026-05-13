@@ -1,343 +1,758 @@
 {
-    "chromaeverset": 150000,
-    "chromaalienset": 46000,
-    "chromabaubleset": 40750,
-    "chromasunset": 6500,
-    "chromasnowset": 14000,
-    "chromablizzardset": 12250,
-    "chromasweetset": 9500,
-    "chromabringerset": 165,
-    "chromaslasherset": 90,
-    "traveler'sset": 12900,
-    "everset": 5950,
-    "celestialset": 4375,
-    "alienset": 3350,
-    "vampire'sset": 2625,
-    "darkset": 2520,
-    "sakuraset": 2250,
-    "sunset": 500,
-    "snowset": 1185,
-    "baubleset": 955,
-    "soulset": 690,
-    "corruptset": 650,
-    "rainbowset": 590,
-    "bloomset": 560,
-    "bowset": 500,
-    "flowerwoodset": 405,
-    "xenoset": 400,
-    "sweetset": 375,
-    "oceanset": 345,
-    "fulliceset": 327,
-    "blizzardset": 310,
-    "borealisset": 205,
-    "batset": 170,
-    "candyset": 150,
-    "fullelderwoodset": 135,
-    "iceset": 127,
-    "pearlset": 105,
-    "elderwoodset": 90,
-    "fullswirlyset": 85,
-    "spectreset": 84,
-    "bringerset": 80,
-    "swirlyset": 70,
-    "hallowset": 60,
-    "iceflakeset": 48,
-    "plasmaset": 48,
-    "slasherset": 45,
-    "oldgloryset": 43,
-    "logchopperset": 38,
-    "gingerset(godly)": 37,
-    "virtualset": 37,
-    "cookieset": 36,
-    "eternalcaneset": 35,
-    "pumpkinset": 410,
-    "latteset": 260,
-    "zombifiedset": 80,
-    "silentnightset": 62,
-    "gingerbreadset(2019)": 53,
-    "pumpkinset(2019)": 18,
-    "pumpkinset(2020)": 16,
-    "pumpkinset(2021)": 14,
-    "eyeset": 14,
-    "sparkleset": 127,
-    "vintageset": 61,
-    "gingerscope": 16750,
-    "traveler'saxe": 8400,
-    "celestial": 1725,
-    "vampire'saxe": 925,
-    "harvester": 300,
-    "icepiercer": 200,
-    "icebreaker": 85,
-    "batwing": 50,
-    "elderwoodscythe": 48,
-    "swirlyaxe": 45,
-    "hallowscythe": 35,
-    "logchopper": 20,
-    "icewing": 15,
-    "ghost": 10,
-    "blood": 8,
-    "laser": 27,
-    "america": 7,
-    "prince": 6,
-    "shadow": 6,
-    "phaser": 5,
-    "cowboy": 4,
-    "golden": 4,
-    "splitter": 3,
-    "chromatraveler'sgun": 225000,
-    "chromaevergun": 90000,
-    "chromaevergreen": 60000,
-    "chromabauble": 38000,
-    "chromavampire'sgun": 37000,
-    "chromaconstellation": 36000,
-    "chromaalienbeam": 30000,
-    "chromaraygun": 16000,
-    "chromasunrise": 11000,
-    "chromasnowcannon": 8500,
-    "chromablizzard": 8000,
-    "chromaheartwand": 5750,
-    "chromatreat": 5750,
-    "chromasnowdagger": 5500,
-    "chromasnowstorm": 4250,
-    "chromasweet": 3750,
-    "chromawatergun": 3400,
-    "chromaornament": 2750,
-    "chromadarkbringer": 85,
-    "chromalightbringer": 80,
-    "chromaluger": 57,
-    "chromacandleflame": 48,
-    "chromaelderwoodblade": 48,
-    "chromalaser": 48,
-    "chromaswirlygun": 47,
-    "chromadeathshard": 42,
-    "chromaslasher": 42,
-    "chromacookiecane": 40,
-    "chromashark": 40,
-    "chromafang": 38,
-    "chromagemstone": 35,
-    "chromaheat": 35,
-    "chromagingerblade": 33,
-    "chromasaw": 33,
-    "chromaseer": 33,
-    "chromatides": 32,
-    "chromaboneblade": 28,
-    "chromafirebat": 7,
-    "chromafirebear": 7,
-    "chromafirebunny": 7,
-    "chromafirecat": 7,
-    "chromafiredog": 7,
-    "chromafirefox": 7,
-    "chromafirepig": 7,
-    "traveler'sgun": 4500,
-    "evergun": 3400,
-    "constellation": 2650,
-    "evergreen": 2550,
-    "turkey": 2175,
-    "alienbeam": 2100,
-    "vampire'sgun": 1700,
-    "darkshot": 1270,
-    "darksword": 1250,
-    "raygun": 1250,
-    "blossom": 1130,
-    "sakura": 1120,
-    "sunrise": 950,
-    "snowcannon": 925,
-    "bauble": 925,
-    "heartwand": 400,
-    "soul": 350,
-    "spirit": 340,
-    "rainbowgun": 300,
-    "rainbow": 290,
-    "flora": 285,
-    "bloom": 275,
-    "snowdagger": 260,
-    "flowerwoodgun": 205,
-    "flowerwood": 200,
-    "xenoknife": 200,
-    "xenoshot": 200,
-    "treat": 190,
-    "sweet": 185,
-    "ocean": 175,
-    "watergun": 170,
-    "waves": 170,
-    "blizzard": 155,
-    "snowstorm": 155,
-    "bat": 125,
-    "borealis": 105,
-    "candy": 105,
-    "australis": 100,
-    "heartblade": 80,
-    "pearlshine": 55,
-    "pearl": 50,
-    "luger": 50,
-    "candleflame": 45,
-    "elderwoodblade": 45,
-    "makeshift": 45,
-    "redluger": 45,
-    "sugar": 45,
-    "phantom": 42,
-    "spectre": 42,
-    "darkbringer": 42,
-    "elderwoodrevolver": 42,
-    "iceblaster": 42,
-    "lightbringer": 38,
-    "ornament": 30,
-    "greenluger": 30,
-    "swirlygun": 25,
-    "amerilaser": 25,
-    "hallowgun": 25,
-    "icebeam": 25,
-    "plasmabeam": 25,
-    "iceflake": 23,
-    "plasmablade": 23,
-    "shark": 23,
-    "nightblade": 22,
-    "blaster": 20,
-    "gingerluger": 20,
-    "pixel": 20,
-    "cookiecane": 18,
-    "gingermint": 18,
-    "lugercane": 18,
-    "minty": 18,
-    "oldglory": 18,
-    "slasher": 18,
-    "battleaxeii": 18,
-    "eternalcane": 17,
-    "jinglegun": 17,
-    "virtual": 17,
-    "gemstone": 17,
-    "gingerblade": 17,
-    "swirlyblade": 15,
-    "nebula": 15,
-    "vampire'sedge": 15,
-    "deathshard": 15,
-    "battleaxe": 12,
-    "bioblade": 10,
-    "chill": 10,
-    "clockwork": 10,
-    "eternaliii": 10,
-    "eternaliv": 10,
-    "fang": 10,
-    "frostsaber": 10,
-    "heat": 10,
-    "spider": 10,
-    "tides": 10,
-    "eternal": 8,
-    "eternalii": 8,
-    "hallow'sblade": 8,
-    "hallow'sedge": 8,
-    "handsaw": 8,
-    "xmas": 8,
-    "boneblade": 7,
-    "frostbite": 7,
-    "ghostblade": 7,
-    "icedragon": 7,
-    "iceshard": 7,
-    "prismatic": 7,
-    "pumpking": 7,
-    "saw": 7,
-    "eggblade": 5,
-    "flames": 5,
-    "snowflake": 5,
-    "winter'sedge": 5,
-    "peppermint": 4,
-    "cookieblade": 3,
-    "blueseer": 3,
-    "purpleseer": 3,
-    "redseer": 3,
-    "seer": 3,
-    "orangeseer": 2,
-    "yellowseer": 2,
-    "jd": 35,
-    "latte(gun)": 130,
-    "latte(knife)": 130,
-    "cottoncandy": 40,
-    "beach": 30,
-    "traveler(gun)": 25,
-    "spectral(knife)": 20,
-    "vampire(gun)": 7,
-    "aurora(gun)": 1,
-    "cavern(knife)": 7,
-    "skulls": 10,
-    "broken": 7,
-    "ginger(gun)": 6,
-    "arctic(gun)": 5,
-    "icedriller": 5,
-    "nightsky": 5,
-    "ghost(knife)": 5,
-    "bunnies": 4,
-    "redscratch": 4,
-    "vampire(knife)": 1,
-    "witched": 3,
-    "blueelite": 3,
-    "greenelite": 3,
-    "santa'smagic": 3,
-    "santa'sspirit": 3,
-    "spectral(gun)": 2,
-    "traveler(knife)": 2,
-    "bluescratch": 2,
-    "ghost(gun)": 2,
-    "chromatic(knife)": 1,
-    "energized(gun)": 1,
-    "frostfade(knife)": 1,
-    "icecracker": 1,
-    "redfire": 1,
-    "cavern(gun)": 1,
-    "caneknife(2018)": 525,
-    "silentnight(knife)": 50,
-    "dungeon": 40,
-    "zombified": 27,
-    "makeshift(knife)": 25,
-    "aurora(knife)": 13,
-    "silentnight(gun)": 12,
-    "icicles(gun)": 10,
-    "darkknife": 8,
-    "starry(gun)": 8,
-    "floral(knife)": 7,
-    "swirl": 7,
-    "toxic(knife)": 7,
-    "candyswirl(gun)": 5,
-    "magma": 5,
-    "jack": 3,
-    "magma(gun)": 3,
-    "snakebite(knife)": 3,
-    "watcher(gun)": 3,
-    "monster": 3,
-    "bats": 3,
-    "greenmarble": 3,
-    "sun": 2,
-    "orangemarble": 2,
-    "toxic(gun)": 2,
-    "ghastly(gun)": 1,
-    "gingerbread": 1,
-    "candyswirl(knife)": 1,
-    "snakebite(gun)": 1,
-    "bones": 75,
-    "zombified(knife)": 65,
-    "gingerbread(knife)[xmas2019]": 50,
-    "sweater(knife)": 50,
-    "brains": 45,
-    "branches": 30,
-    "zombified(gun)": 15,
-    "void": 10,
-    "zombie(gun)": 10,
-    "frozen(gun)": 8,
-    "mummy2018(gun)": 8,
-    "potion(knife)": 8,
-    "lights(gun)": 5,
-    "potion(gun)": 5,
-    "webs": 3,
-    "frozen(knife)": 3,
-    "gingerbread(gun)[xmas2019]": 3,
-    "mummy2018(knife)": 3,
-    "zombie(knife)": 3,
-    "pumpkinpie": 3,
-    "holly(gun)": 3,
-    "potion(2017)": 3,
-    "gothic(gun)": 2,
-    "mummy(2017)": 2,
-    "lights(knife)": 1,
-    "moons": 1,
-    "vampire": 1,
-    "wolf": 1
+    "gingerscope": {
+        "val": 16750,
+        "usd": 251.25
+    },
+    "traveler&#039;saxe": {
+        "val": 8400,
+        "usd": 0
+    },
+    "celestial": {
+        "val": 1725,
+        "usd": 25.9
+    },
+    "vampire&#039;saxe": {
+        "val": 925,
+        "usd": 0
+    },
+    "harvester": {
+        "val": 300,
+        "usd": 4.65
+    },
+    "icepiercer": {
+        "val": 200,
+        "usd": 3.15
+    },
+    "icebreaker": {
+        "val": 85,
+        "usd": 1.3
+    },
+    "batwing": {
+        "val": 50,
+        "usd": 0.75
+    },
+    "elderwoodscythe": {
+        "val": 48,
+        "usd": 0.65
+    },
+    "swirlyaxe": {
+        "val": 45,
+        "usd": 0.7
+    },
+    "hallowscythe": {
+        "val": 35,
+        "usd": 0.5
+    },
+    "logchopper": {
+        "val": 20,
+        "usd": 0.5
+    },
+    "icewing": {
+        "val": 15,
+        "usd": 0.5
+    },
+    "ghost": {
+        "val": 10,
+        "usd": 0
+    },
+    "blood": {
+        "val": 8,
+        "usd": 0
+    },
+    "laser": {
+        "val": 27,
+        "usd": 0.75
+    },
+    "america": {
+        "val": 7,
+        "usd": 0
+    },
+    "prince": {
+        "val": 6,
+        "usd": 0
+    },
+    "shadow": {
+        "val": 6,
+        "usd": 0
+    },
+    "phaser": {
+        "val": 5,
+        "usd": 0
+    },
+    "cowboy": {
+        "val": 4,
+        "usd": 0
+    },
+    "golden": {
+        "val": 4,
+        "usd": 0
+    },
+    "splitter": {
+        "val": 3,
+        "usd": 0
+    },
+    "chromatraveler&#039;sgun": {
+        "val": 225000,
+        "usd": 0
+    },
+    "chromaevergun": {
+        "val": 90000,
+        "usd": 1350.0
+    },
+    "chromaevergreen": {
+        "val": 60000,
+        "usd": 900.0
+    },
+    "chromabauble": {
+        "val": 38000,
+        "usd": 570.0
+    },
+    "chromavampire&#039;sgun": {
+        "val": 37000,
+        "usd": 0
+    },
+    "chromaconstellation": {
+        "val": 36000,
+        "usd": 540.0
+    },
+    "chromaalienbeam": {
+        "val": 30000,
+        "usd": 450.0
+    },
+    "chromaraygun": {
+        "val": 16000,
+        "usd": 240.0
+    },
+    "chromasunrise": {
+        "val": 11000,
+        "usd": 165.0
+    },
+    "chromasnowcannon": {
+        "val": 8500,
+        "usd": 123.75
+    },
+    "chromablizzard": {
+        "val": 8000,
+        "usd": 120.0
+    },
+    "chromasunset": {
+        "val": 6500,
+        "usd": 97.5
+    },
+    "chromaheartwand": {
+        "val": 5750,
+        "usd": 86.25
+    },
+    "chromatreat": {
+        "val": 5750,
+        "usd": 86.25
+    },
+    "chromasnowdagger": {
+        "val": 5500,
+        "usd": 82.5
+    },
+    "chromasnowstorm": {
+        "val": 4250,
+        "usd": 78.25
+    },
+    "chromasweet": {
+        "val": 3750,
+        "usd": 56.25
+    },
+    "chromawatergun": {
+        "val": 3400,
+        "usd": 51.0
+    },
+    "chromaornament": {
+        "val": 2750,
+        "usd": 41.25
+    },
+    "chromadarkbringer": {
+        "val": 85,
+        "usd": 1.25
+    },
+    "chromalightbringer": {
+        "val": 80,
+        "usd": 1.2
+    },
+    "chromaluger": {
+        "val": 57,
+        "usd": 0.8
+    },
+    "chromacandleflame": {
+        "val": 48,
+        "usd": 0.9
+    },
+    "chromaelderwoodblade": {
+        "val": 48,
+        "usd": 0.8
+    },
+    "chromalaser": {
+        "val": 48,
+        "usd": 0.75
+    },
+    "chromaswirlygun": {
+        "val": 47,
+        "usd": 0.8
+    },
+    "chromadeathshard": {
+        "val": 42,
+        "usd": 0.75
+    },
+    "chromaslasher": {
+        "val": 42,
+        "usd": 0.75
+    },
+    "chromacookiecane": {
+        "val": 40,
+        "usd": 0.8
+    },
+    "chromashark": {
+        "val": 40,
+        "usd": 0.75
+    },
+    "chromafang": {
+        "val": 38,
+        "usd": 0.75
+    },
+    "chromagemstone": {
+        "val": 35,
+        "usd": 0.75
+    },
+    "chromaheat": {
+        "val": 35,
+        "usd": 0.75
+    },
+    "chromagingerblade": {
+        "val": 33,
+        "usd": 0.75
+    },
+    "chromasaw": {
+        "val": 33,
+        "usd": 0.75
+    },
+    "chromaseer": {
+        "val": 33,
+        "usd": 0.1
+    },
+    "chromatides": {
+        "val": 32,
+        "usd": 0.75
+    },
+    "chromaboneblade": {
+        "val": 28,
+        "usd": 0.75
+    },
+    "chromafirebat": {
+        "val": 7,
+        "usd": 0
+    },
+    "chromafirebear": {
+        "val": 7,
+        "usd": 0
+    },
+    "chromafirebunny": {
+        "val": 7,
+        "usd": 0
+    },
+    "chromafirecat": {
+        "val": 7,
+        "usd": 0
+    },
+    "chromafiredog": {
+        "val": 7,
+        "usd": 0
+    },
+    "chromafirefox": {
+        "val": 7,
+        "usd": 0
+    },
+    "chromafirepig": {
+        "val": 7,
+        "usd": 0
+    },
+    "traveler&#039;sgun": {
+        "val": 4500,
+        "usd": 0
+    },
+    "evergun": {
+        "val": 3400,
+        "usd": 51.75
+    },
+    "constellation": {
+        "val": 2650,
+        "usd": 39.75
+    },
+    "evergreen": {
+        "val": 2550,
+        "usd": 39.0
+    },
+    "turkey": {
+        "val": 2175,
+        "usd": 32.65
+    },
+    "alienbeam": {
+        "val": 2100,
+        "usd": 31.5
+    },
+    "vampire&#039;sgun": {
+        "val": 1700,
+        "usd": 0
+    },
+    "darkshot": {
+        "val": 1270,
+        "usd": 21.05
+    },
+    "darksword": {
+        "val": 1250,
+        "usd": 20.75
+    },
+    "raygun": {
+        "val": 1250,
+        "usd": 18.75
+    },
+    "blossom": {
+        "val": 1130,
+        "usd": 18.8
+    },
+    "sakura": {
+        "val": 1120,
+        "usd": 18.65
+    },
+    "sunrise": {
+        "val": 950,
+        "usd": 14.25
+    },
+    "snowcannon": {
+        "val": 925,
+        "usd": 14.9
+    },
+    "bauble": {
+        "val": 925,
+        "usd": 13.9
+    },
+    "sunset": {
+        "val": 500,
+        "usd": 8.5
+    },
+    "heartwand": {
+        "val": 400,
+        "usd": 7.0
+    },
+    "soul": {
+        "val": 350,
+        "usd": 6.25
+    },
+    "spirit": {
+        "val": 340,
+        "usd": 6.1
+    },
+    "rainbowgun": {
+        "val": 300,
+        "usd": 4.5
+    },
+    "rainbow": {
+        "val": 290,
+        "usd": 4.35
+    },
+    "flora": {
+        "val": 285,
+        "usd": 4.3
+    },
+    "bloom": {
+        "val": 275,
+        "usd": 4.15
+    },
+    "snowdagger": {
+        "val": 260,
+        "usd": 3.75
+    },
+    "flowerwoodgun": {
+        "val": 205,
+        "usd": 3.1
+    },
+    "flowerwood": {
+        "val": 200,
+        "usd": 3.0
+    },
+    "xenoknife": {
+        "val": 200,
+        "usd": 3.0
+    },
+    "xenoshot": {
+        "val": 200,
+        "usd": 3.0
+    },
+    "treat": {
+        "val": 190,
+        "usd": 2.85
+    },
+    "sweet": {
+        "val": 185,
+        "usd": 2.8
+    },
+    "ocean": {
+        "val": 175,
+        "usd": 2.65
+    },
+    "watergun": {
+        "val": 170,
+        "usd": 2.55
+    },
+    "waves": {
+        "val": 170,
+        "usd": 2.55
+    },
+    "blizzard": {
+        "val": 155,
+        "usd": 2.25
+    },
+    "snowstorm": {
+        "val": 155,
+        "usd": 1.25
+    },
+    "bat": {
+        "val": 125,
+        "usd": 1.95
+    },
+    "borealis": {
+        "val": 105,
+        "usd": 1.6
+    },
+    "candy": {
+        "val": 105,
+        "usd": 1.6
+    },
+    "australis": {
+        "val": 100,
+        "usd": 1.5
+    },
+    "heartblade": {
+        "val": 80,
+        "usd": 1.2
+    },
+    "pearlshine": {
+        "val": 55,
+        "usd": 0.75
+    },
+    "pearl": {
+        "val": 50,
+        "usd": 0.75
+    },
+    "luger": {
+        "val": 50,
+        "usd": 0.75
+    },
+    "candleflame": {
+        "val": 45,
+        "usd": 0.75
+    },
+    "elderwoodblade": {
+        "val": 45,
+        "usd": 0.75
+    },
+    "makeshift": {
+        "val": 45,
+        "usd": 0.75
+    },
+    "redluger": {
+        "val": 45,
+        "usd": 0.75
+    },
+    "sugar": {
+        "val": 45,
+        "usd": 0.75
+    },
+    "phantom": {
+        "val": 42,
+        "usd": 0.75
+    },
+    "spectre": {
+        "val": 42,
+        "usd": 0.75
+    },
+    "darkbringer": {
+        "val": 42,
+        "usd": 0.75
+    },
+    "elderwoodrevolver": {
+        "val": 42,
+        "usd": 0.75
+    },
+    "iceblaster": {
+        "val": 42,
+        "usd": 0.75
+    },
+    "lightbringer": {
+        "val": 38,
+        "usd": 0.75
+    },
+    "ornament": {
+        "val": 30,
+        "usd": 0.75
+    },
+    "greenluger": {
+        "val": 30,
+        "usd": 0.75
+    },
+    "swirlygun": {
+        "val": 25,
+        "usd": 0.75
+    },
+    "amerilaser": {
+        "val": 25,
+        "usd": 0.75
+    },
+    "hallowgun": {
+        "val": 25,
+        "usd": 0.75
+    },
+    "icebeam": {
+        "val": 25,
+        "usd": 0.75
+    },
+    "plasmabeam": {
+        "val": 25,
+        "usd": 0.75
+    },
+    "iceflake": {
+        "val": 23,
+        "usd": 0.75
+    },
+    "plasmablade": {
+        "val": 23,
+        "usd": 0.75
+    },
+    "shark": {
+        "val": 23,
+        "usd": 0.75
+    },
+    "nightblade": {
+        "val": 22,
+        "usd": 0.75
+    },
+    "blaster": {
+        "val": 20,
+        "usd": 0.75
+    },
+    "gingerluger": {
+        "val": 20,
+        "usd": 0.75
+    },
+    "pixel": {
+        "val": 20,
+        "usd": 0.75
+    },
+    "cookiecane": {
+        "val": 18,
+        "usd": 0.75
+    },
+    "gingermint": {
+        "val": 18,
+        "usd": 0.75
+    },
+    "lugercane": {
+        "val": 18,
+        "usd": 0.5
+    },
+    "minty": {
+        "val": 18,
+        "usd": 0.75
+    },
+    "oldglory": {
+        "val": 18,
+        "usd": 0.5
+    },
+    "slasher": {
+        "val": 18,
+        "usd": 0.75
+    },
+    "battleaxeii": {
+        "val": 18,
+        "usd": 0
+    },
+    "eternalcane": {
+        "val": 17,
+        "usd": 0.5
+    },
+    "jinglegun": {
+        "val": 17,
+        "usd": 0.5
+    },
+    "virtual": {
+        "val": 17,
+        "usd": 0.5
+    },
+    "gemstone": {
+        "val": 17,
+        "usd": 0.5
+    },
+    "gingerblade": {
+        "val": 17,
+        "usd": 0.5
+    },
+    "swirlyblade": {
+        "val": 15,
+        "usd": 0.75
+    },
+    "nebula": {
+        "val": 15,
+        "usd": 0.5
+    },
+    "vampire&#039;sedge": {
+        "val": 15,
+        "usd": 0
+    },
+    "deathshard": {
+        "val": 15,
+        "usd": 0.5
+    },
+    "battleaxe": {
+        "val": 12,
+        "usd": 0.5
+    },
+    "bioblade": {
+        "val": 10,
+        "usd": 0.5
+    },
+    "chill": {
+        "val": 10,
+        "usd": 0.5
+    },
+    "clockwork": {
+        "val": 10,
+        "usd": 0.5
+    },
+    "eternaliii": {
+        "val": 10,
+        "usd": 0
+    },
+    "eternaliv": {
+        "val": 10,
+        "usd": 0
+    },
+    "fang": {
+        "val": 10,
+        "usd": 0.5
+    },
+    "frostsaber": {
+        "val": 10,
+        "usd": 0.5
+    },
+    "heat": {
+        "val": 10,
+        "usd": 0.5
+    },
+    "spider": {
+        "val": 10,
+        "usd": 0.5
+    },
+    "tides": {
+        "val": 10,
+        "usd": 0.5
+    },
+    "eternal": {
+        "val": 8,
+        "usd": 0.5
+    },
+    "eternalii": {
+        "val": 8,
+        "usd": 0
+    },
+    "hallow&#039;sblade": {
+        "val": 8,
+        "usd": 0
+    },
+    "hallow&#039;sedge": {
+        "val": 8,
+        "usd": 0
+    },
+    "handsaw": {
+        "val": 8,
+        "usd": 0.5
+    },
+    "xmas": {
+        "val": 8,
+        "usd": 0.5
+    },
+    "boneblade": {
+        "val": 7,
+        "usd": 0.5
+    },
+    "frostbite": {
+        "val": 7,
+        "usd": 0.5
+    },
+    "ghostblade": {
+        "val": 7,
+        "usd": 0.5
+    },
+    "icedragon": {
+        "val": 7,
+        "usd": 0.5
+    },
+    "iceshard": {
+        "val": 7,
+        "usd": 0.5
+    },
+    "prismatic": {
+        "val": 7,
+        "usd": 0.5
+    },
+    "pumpking": {
+        "val": 7,
+        "usd": 0.5
+    },
+    "saw": {
+        "val": 7,
+        "usd": 0.5
+    },
+    "eggblade": {
+        "val": 5,
+        "usd": 0.5
+    },
+    "flames": {
+        "val": 5,
+        "usd": 0.5
+    },
+    "snowflake": {
+        "val": 5,
+        "usd": 0.5
+    },
+    "winter&#039;sedge": {
+        "val": 5,
+        "usd": 0
+    },
+    "peppermint": {
+        "val": 4,
+        "usd": 0
+    },
+    "cookieblade": {
+        "val": 3,
+        "usd": 0
+    },
+    "blueseer": {
+        "val": 3,
+        "usd": 0.1
+    },
+    "purpleseer": {
+        "val": 3,
+        "usd": 0.1
+    },
+    "redseer": {
+        "val": 3,
+        "usd": 0.1
+    },
+    "seer": {
+        "val": 3,
+        "usd": 0.1
+    },
+    "orangeseer": {
+        "val": 2,
+        "usd": 0.1
+    },
+    "yellowseer": {
+        "val": 2,
+        "usd": 0.1
+    }
 }
