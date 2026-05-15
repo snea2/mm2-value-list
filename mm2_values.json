@@ -2,3365 +2,4202 @@
     "commons": [
         {
             "name": "Glitch1",
-            "value": 75
+            "value": 75,
+            "demand": 3
         },
         {
             "name": "Glitch2",
-            "value": 50
+            "value": 50,
+            "demand": 2
         },
         {
             "name": "Bats",
-            "value": 110
+            "value": 110,
+            "demand": 3
         },
         {
             "name": "Pine",
-            "value": 80
+            "value": 80,
+            "demand": 2
         },
         {
             "name": "Gifts",
-            "value": 70
+            "value": 70,
+            "demand": 2
         },
         {
             "name": "Ghoulish",
-            "value": 45
+            "value": 45,
+            "demand": 2
         },
         {
             "name": "Sparkle9",
-            "value": 30
+            "value": 30,
+            "demand": 2
         },
         {
             "name": "Sparkle10",
-            "value": 20
+            "value": 20,
+            "demand": 2
         },
         {
             "name": "Sparkle8",
-            "value": 20
+            "value": 20,
+            "demand": 2
         },
         {
             "name": "Sparkle7",
-            "value": 18
+            "value": 18,
+            "demand": 2
         },
         {
             "name": "Snowman Gun",
-            "value": 17
+            "value": 17,
+            "demand": 2
         },
         {
             "name": "Wrapped Gun",
-            "value": 17
+            "value": 17,
+            "demand": 2
         },
         {
             "name": "Elf",
-            "value": 17
+            "value": 17,
+            "demand": 2
         },
         {
             "name": "Frosted",
-            "value": 15
+            "value": 15,
+            "demand": 2
         },
         {
             "name": "RIP",
-            "value": 12
+            "value": 12,
+            "demand": 2
         },
         {
             "name": "Sparkle6",
-            "value": 12
+            "value": 12,
+            "demand": 2
         },
         {
             "name": "Coal",
-            "value": 10
+            "value": 10,
+            "demand": 2
         },
         {
             "name": "Snowflakes",
-            "value": 10
+            "value": 10,
+            "demand": 2
         },
         {
             "name": "CandyCorn 2017",
-            "value": 10
+            "value": 10,
+            "demand": 2
         },
         {
             "name": "Combat II",
-            "value": 10
+            "value": 10,
+            "demand": 2
         },
         {
             "name": "Prism",
-            "value": 10
+            "value": 10,
+            "demand": 2
         },
         {
             "name": "Sparkle4",
-            "value": 10
+            "value": 10,
+            "demand": 2
         },
         {
             "name": "Skool",
-            "value": 8
+            "value": 8,
+            "demand": 2
         },
         {
             "name": "Sparkle5",
-            "value": 8
+            "value": 8,
+            "demand": 2
         },
         {
             "name": "Tailslide",
-            "value": 8
+            "value": 8,
+            "demand": 2
         },
         {
             "name": "Phantom",
-            "value": 8
+            "value": 8,
+            "demand": 1
         },
         {
             "name": "Ollie",
-            "value": 7
+            "value": 7,
+            "demand": 2
         },
         {
             "name": "Sidewinder",
-            "value": 7
+            "value": 7,
+            "demand": 2
         },
         {
             "name": "Pumpkin (2019)",
-            "value": 5
+            "value": 5,
+            "demand": 2
         },
         {
             "name": "Ecto",
-            "value": 5
+            "value": 5,
+            "demand": 2
         },
         {
             "name": "Zombie",
-            "value": 5
+            "value": 5,
+            "demand": 1
         },
         {
             "name": "Euro",
-            "value": 4
+            "value": 4,
+            "demand": 2
         },
         {
             "name": "Grave",
-            "value": 4
+            "value": 4,
+            "demand": 2
         },
         {
             "name": "Sketchy",
-            "value": 4
+            "value": 4,
+            "demand": 2
         },
         {
             "name": "Slime",
-            "value": 4
+            "value": 4,
+            "demand": 1
         },
         {
             "name": "Alex",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Corl",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Denis",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Slime",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Sub",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Webbed",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Ghosty",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Sparkle1",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Sparkle2",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Sparkle3",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Asteroid",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Mummified",
-            "value": 2
+            "value": 2,
+            "demand": 2
         },
         {
             "name": "CandyCorn (2019)",
-            "value": 2
+            "value": 2,
+            "demand": 2
         },
         {
             "name": "Grind",
-            "value": 2
+            "value": 2,
+            "demand": 1
         },
         {
             "name": "Indy",
-            "value": 2
+            "value": 2,
+            "demand": 1
         },
         {
             "name": "Bats",
-            "value": 1
+            "value": 1,
+            "demand": 2
         },
         {
             "name": "Grave",
-            "value": 1
+            "value": 1,
+            "demand": 2
         },
         {
             "name": "Bones",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Brains",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Haunted",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Haunted",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Witch",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Slimy",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "2015",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Blossom",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Bunny",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Carrot",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Choco",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Egg",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Elf",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Goo",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Hearts",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ornament",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ornament1",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ornament2",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ornament2",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Passion",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Patrick",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Reptile",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Roses",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Santa",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Santa",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Sweetheart",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Tulip",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Valentine",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Infected",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Neon",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "TNL",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Elf (2018)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Frosted",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Apocalypse",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Apocalypse",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gifts",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Infected",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Infected",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Bats (2020)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Webbed",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Fragile",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Fragile",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Toy",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Slashed",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "RB Knife",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Starry",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Hunter",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Pine",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ribbons",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Love 2023",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Reindeer",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Snowflakes",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Coal 2021",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Etched",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gift Bag",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Scarf",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Candied",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cane 2021",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ornaments",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Penguin",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Reindeer",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Aliens",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Coal",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cracks",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Moon",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Pumpkin (2023)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Snowman 2022",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Vines",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Webs",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cat",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Coal 2022",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Darkness",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gift Bag",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gifts (2024)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Hot Chocolate",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ribbon",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Toy",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Wavy",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ghosts (2023)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Candle",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Candy Corn",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Candy Corn",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Carrots",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Carved",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Carved",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Chick",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Coal",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Coal 2021",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Elf 2017",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Frozen",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Igloo",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ornaments",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Present",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Present (2023)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Santa",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Santa (2023)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Watcher",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Bats Gun (2024)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Candles",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Candy Corn",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Wavy",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "CandyCorn",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Cats",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Clownfish",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Haunted (2025)",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "UFOs",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Candied",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Candy Corn",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cane 2021",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Coal 2022",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cracks",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Darkness",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Giftwrap",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Haunted",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Santa (2018)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Snowman (2018)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Stockings",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Trees",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Watcher",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Wrapped",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Candy Corn",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Eyeball",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Leaves",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Snowman 2022",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Spider (2023)",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Striped",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Vines",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Wood",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Balloons",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Bats Knife (2024)",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Bells",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Candy Corn",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "CandyCorn",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Clownfish",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Coconut",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Dolphins",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Elf (2023)",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Fall",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Frozen",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ghosts (2024)",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Hallows Stickers 2022",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Hearts (2026)",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Igloo",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Leaves",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Lights",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Lights",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Peppermint",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Peppermint",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Plaid",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Sandy",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Skyline",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Snowball",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Snowball",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Snowfall",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Starfish",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Starfish",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stickers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stockings (2024)",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Strawberries",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Strawberries",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Striped",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "UFOs",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Xbox",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Clown",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Clown",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "8Bit",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Aqua",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Big Kill",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Bit",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Bleached",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Borders",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Brown",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Cardboard",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Cherry",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Clan",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Cold",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Combat",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Copper",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Eco",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Engraved",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Fallout",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Green",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Hardened",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "HL2",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ice",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Infiltrator",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Iron",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Juice",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Leaf",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Linked",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Log",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Love",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Lovely",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "News",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Oily",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Orange",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Pea",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Sandy",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Shaded",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Slate",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Splat",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Splatter",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stainless",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Star",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Static",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Whiteout",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Yellow",
-            "value": 0
+            "value": 0,
+            "demand": 1
         }
     ],
     "uncommons": [
         {
             "name": "Bones",
-            "value": 75
+            "value": 75,
+            "demand": 2
         },
         {
             "name": "Zombified",
-            "value": 65
+            "value": 65,
+            "demand": 2
         },
         {
             "name": "Gingerbread",
-            "value": 50
+            "value": 50,
+            "demand": 2
         },
         {
             "name": "Sweater",
-            "value": 50
+            "value": 50,
+            "demand": 2
         },
         {
             "name": "Brains",
-            "value": 45
+            "value": 45,
+            "demand": 3
         },
         {
             "name": "Branches",
-            "value": 30
+            "value": 30,
+            "demand": 2
         },
         {
             "name": "Zombified",
-            "value": 15
+            "value": 15,
+            "demand": 2
         },
         {
             "name": "Skulls",
-            "value": 10
+            "value": 10,
+            "demand": 2
         },
         {
             "name": "Void",
-            "value": 10
+            "value": 10,
+            "demand": 2
         },
         {
             "name": "Zombie",
-            "value": 10
+            "value": 10,
+            "demand": 2
         },
         {
             "name": "Frozen",
-            "value": 8
+            "value": 8,
+            "demand": 2
         },
         {
             "name": "Mummy 2018",
-            "value": 8
+            "value": 8,
+            "demand": 2
         },
         {
             "name": "Potion",
-            "value": 8
+            "value": 8,
+            "demand": 2
         },
         {
             "name": "Lights",
-            "value": 5
+            "value": 5,
+            "demand": 2
         },
         {
             "name": "Snowflake",
-            "value": 5
+            "value": 5,
+            "demand": 1
         },
         {
             "name": "Potion",
-            "value": 5
+            "value": 5,
+            "demand": 1
         },
         {
             "name": "Webs",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Frozen",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Gingerbread",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Mummy 2018",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Zombie",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Pumpkin Pie",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Holly",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Potion (2017)",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Gothic",
-            "value": 2
+            "value": 2,
+            "demand": 2
         },
         {
             "name": "Mummy (2017)",
-            "value": 2
+            "value": 2,
+            "demand": 1
         },
         {
             "name": "Lights",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Moons",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Vampire",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Wolf",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Gingerbread",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Nutcracker",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Snowman",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Snowman",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Snowy",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Wrapped",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Wrapped",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Gifted",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Wrap",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Wrap",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Zombie",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gothic",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Snowman",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Stars",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Tree (2021)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Zombie (2023)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Hazard",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Lantern",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Meltdown",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Pool Noodle",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Steel",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gingerbread",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Love",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cookie",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Moonlight",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Wraiths",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gingerheart",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Hazard",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Rose",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Wrapped Gun (2024)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Frosty",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Holly",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Mistletoe",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Snowflake 2022",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Carrot",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Clown Gun (2024)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Fireplace",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Forest",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Marble",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Melon",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Mummy 2020",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Snowman",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Canes",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Carrot",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Stockings",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Brains 2022",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Carrot",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cookie",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Decorated",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Eyes",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Fall Camo",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Floatie",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gingerbread",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Meadow",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Monster",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Moons (2024)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Mummy 2020",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Painted",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Pumpkin (2025)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Snowflake",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Snowflake 2022",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Steel",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Sweater",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Treats",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Witchbrew",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Wraiths",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Stars",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Sweater",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Tree (2017)",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Checkers",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Eclipse",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Future",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Gingerbread",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Glowy",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Lava",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Night",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Polar Bear",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Pool",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Popsicle",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Soda",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Sweater",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ghostly",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ghosts",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Portal",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Pumpkin",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Wrapped Knife (2024)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Donut",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Mistletoe",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stockings",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Abduction",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Blossom",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Bones",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Canes",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Gingerbread",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Jellyfish",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Lava",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Leaves",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ornaments",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Paws",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Popsicle",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Pumpkin Patch",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Retro",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Snowman (2023)",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Snowman (2024)",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Soda",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Starry",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Sweater",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Treats",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Turtle",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Witch's Brew",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Wreaths",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Doge",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Sketch",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Adurite",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Adurite",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Biogun",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Blue",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Bluesteel",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Bluesteel",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Brush",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Camo",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Camo",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Caution",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Cheddar",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Cheesy",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Circuit",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Hazmat",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Hive",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Jigsaw",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Lucky",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Marina",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Melon",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Missing",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Paper",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Pink",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Pirate",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Red",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Soda",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Stalker",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Tiger",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Wanwood",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Wooden",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Graffiti",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "High Tech",
-            "value": 0
+            "value": 0,
+            "demand": 1
         }
     ],
     "rares": [
         {
             "name": "Cane Knife (2018)",
-            "value": 575
+            "value": 575,
+            "demand": 4
         },
         {
             "name": "Silent Night",
-            "value": 50
+            "value": 50,
+            "demand": 2
         },
         {
             "name": "Dungeon",
-            "value": 40
+            "value": 40,
+            "demand": 2
         },
         {
             "name": "Zombified",
-            "value": 27
+            "value": 27,
+            "demand": 2
         },
         {
             "name": "Makeshift",
-            "value": 25
+            "value": 25,
+            "demand": 2
         },
         {
             "name": "Aurora",
-            "value": 13
+            "value": 13,
+            "demand": 2
         },
         {
             "name": "Silent Night",
-            "value": 12
+            "value": 12,
+            "demand": 2
         },
         {
             "name": "Icicles",
-            "value": 10
+            "value": 10,
+            "demand": 2
         },
         {
             "name": "Darkknife",
-            "value": 8
+            "value": 8,
+            "demand": 2
         },
         {
             "name": "Starry",
-            "value": 8
+            "value": 8,
+            "demand": 2
         },
         {
             "name": "Floral",
-            "value": 7
+            "value": 7,
+            "demand": 2
         },
         {
             "name": "Swirl",
-            "value": 7
+            "value": 7,
+            "demand": 2
         },
         {
             "name": "Toxic",
-            "value": 7
+            "value": 7,
+            "demand": 2
         },
         {
             "name": "Vampire",
-            "value": 7
+            "value": 7,
+            "demand": 2
         },
         {
             "name": "Candy Swirl",
-            "value": 5
+            "value": 5,
+            "demand": 2
         },
         {
             "name": "Magma",
-            "value": 5
+            "value": 5,
+            "demand": 1
         },
         {
             "name": "Jack",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Magma",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Snakebite",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Watcher",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Monster",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Bats",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Green Marble",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Sun",
-            "value": 2
+            "value": 2,
+            "demand": 2
         },
         {
             "name": "Orange Marble",
-            "value": 2
+            "value": 2,
+            "demand": 1
         },
         {
             "name": "Toxic",
-            "value": 2
+            "value": 2,
+            "demand": 1
         },
         {
             "name": "Ghastly",
-            "value": 1
+            "value": 1,
+            "demand": 2
         },
         {
             "name": "Gingerbread",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Aurora",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Candy Swirl",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Snakebite",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Vampire",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Snowflakes",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Darkgun",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Starry",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cane",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Cane",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ginger",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ginger",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Mummy",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ghostfire",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cane 2018",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Molten",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Molten",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Snowy",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Wraith",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Icicles",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Butterflies",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gingerbread",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Heart",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Neon",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Nuke",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Painted",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Candleflame",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Damp",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Frostflame",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ghastly",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Logcutter",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Nether",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Spitfire",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Watcher",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Tree (2023)",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Tree",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Bio",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Bones",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Curse",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Frostflame",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ghosts",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gingerbread",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gingercookie",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Gingercookie",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Hologram",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ice Camo",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Magma",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Pop Art",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Sharky",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Spearmint",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Spearmint",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Spring",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Storm",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Sunny",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Tropical",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Wraith",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Xeno",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Hologram",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Neon",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Pop Art",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Portal",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Robot",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Tree",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Xeno",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Heartbreak",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Kraken",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ritual",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Snowflake",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Snowglobe",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Yummy",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Floral",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Sleigh",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Waves",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Black",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Abstract",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Ace",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Bacon",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Galactic",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Galaxy",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Hacker",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Imbued",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "iRevolver",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Korblox",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Krypto",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Musical",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Nightfire",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Nova",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Purple",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Rainbow",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Rainbow",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Space",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Spectrum",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Squire",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Vortex",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Deep Sea",
-            "value": 0
+            "value": 0,
+            "demand": 1
         }
     ],
     "legendaries": [
         {
             "name": "JD",
-            "value": 35
+            "value": 35,
+            "demand": 2
         },
         {
             "name": "Latte",
-            "value": 130
+            "value": 130,
+            "demand": 3
         },
         {
             "name": "Latte",
-            "value": 130
+            "value": 130,
+            "demand": 3
         },
         {
             "name": "Cotton Candy",
-            "value": 40
+            "value": 40,
+            "demand": 2
         },
         {
             "name": "Beach",
-            "value": 30
+            "value": 30,
+            "demand": 2
         },
         {
             "name": "Traveler",
-            "value": 25
+            "value": 25,
+            "demand": 3
         },
         {
             "name": "Spectral",
-            "value": 20
+            "value": 20,
+            "demand": 2
         },
         {
             "name": "Vampire",
-            "value": 20
+            "value": 20,
+            "demand": 2
         },
         {
             "name": "Aurora",
-            "value": 13
+            "value": 13,
+            "demand": 2
         },
         {
             "name": "Cavern",
-            "value": 7
+            "value": 7,
+            "demand": 2
         },
         {
             "name": "Skulls",
-            "value": 7
+            "value": 7,
+            "demand": 2
         },
         {
             "name": "Broken",
-            "value": 7
+            "value": 7,
+            "demand": 2
         },
         {
             "name": "Ginger",
-            "value": 6
+            "value": 6,
+            "demand": 1
         },
         {
             "name": "Arctic",
-            "value": 5
+            "value": 5,
+            "demand": 2
         },
         {
             "name": "Icedriller",
-            "value": 5
+            "value": 5,
+            "demand": 2
         },
         {
             "name": "Nightsky",
-            "value": 5
+            "value": 5,
+            "demand": 2
         },
         {
             "name": "Ghost",
-            "value": 5
+            "value": 5,
+            "demand": 1
         },
         {
             "name": "Bunnies",
-            "value": 4
+            "value": 4,
+            "demand": 2
         },
         {
             "name": "Red Scratch",
-            "value": 4
+            "value": 4,
+            "demand": 1
         },
         {
             "name": "Vampire",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Witched",
-            "value": 3
+            "value": 3,
+            "demand": 2
         },
         {
             "name": "Blue Elite",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Green Elite",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Santa's Magic",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Santa's Spirit",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Aurora",
-            "value": 2
+            "value": 2,
+            "demand": 2
         },
         {
             "name": "Spectral",
-            "value": 2
+            "value": 2,
+            "demand": 2
         },
         {
             "name": "Traveler",
-            "value": 2
+            "value": 2,
+            "demand": 2
         },
         {
             "name": "Blue Scratch",
-            "value": 2
+            "value": 2,
+            "demand": 1
         },
         {
             "name": "Ghost",
-            "value": 2
+            "value": 2,
+            "demand": 1
         },
         {
             "name": "Chromatic",
-            "value": 1
+            "value": 1,
+            "demand": 2
         },
         {
             "name": "Energized",
-            "value": 1
+            "value": 1,
+            "demand": 2
         },
         {
             "name": "Frostfade",
-            "value": 1
+            "value": 1,
+            "demand": 2
         },
         {
             "name": "Icecracker",
-            "value": 1
+            "value": 1,
+            "demand": 2
         },
         {
             "name": "Red Fire",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Cavern",
-            "value": 1
+            "value": 1,
+            "demand": 1
         },
         {
             "name": "Arctic",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Chromatic",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Emerald",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Energized",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Overseer",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Predator",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ripper",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Rupture",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Tree",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Tree",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Web",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Green Fire",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Aquarium",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cupid",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cursed",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Frozen",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Frozen",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Midnight",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Nightstar",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Palms",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Sparkle",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Cursed",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Frostfade",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ripper",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Ginger",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Aquarium",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Palms",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Overseer",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Predator",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Rune",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Universe",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Viper",
-            "value": 0
+            "value": 0,
+            "demand": 2
         },
         {
             "name": "Fade",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Fusion",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Plasmite",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Shiny",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Splash",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Elite",
-            "value": 0
+            "value": 0,
+            "demand": 1
         },
         {
             "name": "Splash",
-            "value": 0
+            "value": 0,
+            "demand": 1
         }
     ],
     "godlies": [
         {
             "name": "Traveler's Gun",
-            "value": 4500
+            "value": 4500,
+            "demand": 6
         },
         {
             "name": "Evergun",
-            "value": 3400
+            "value": 3400,
+            "demand": 5
         },
         {
             "name": "Constellation",
-            "value": 2600
+            "value": 2600,
+            "demand": 5
         },
         {
             "name": "Evergreen",
-            "value": 2550
+            "value": 2550,
+            "demand": 5
         },
         {
             "name": "Turkey",
-            "value": 2250
+            "value": 2250,
+            "demand": 6
         },
         {
             "name": "Alienbeam",
-            "value": 2050
+            "value": 2050,
+            "demand": 5
         },
         {
             "name": "Vampire's Gun",
-            "value": 1700
+            "value": 1700,
+            "demand": 5
         },
         {
             "name": "Darkshot",
-            "value": 1300
+            "value": 1300,
+            "demand": 6
         },
         {
             "name": "Darksword",
-            "value": 1280
+            "value": 1280,
+            "demand": 6
         },
         {
             "name": "Raygun",
-            "value": 1200
+            "value": 1200,
+            "demand": 5
         },
         {
             "name": "Blossom",
-            "value": 1140
+            "value": 1140,
+            "demand": 5
         },
         {
             "name": "Sakura",
-            "value": 1130
+            "value": 1130,
+            "demand": 5
         },
         {
             "name": "Sunrise",
-            "value": 975
+            "value": 975,
+            "demand": 6
         },
         {
             "name": "Bauble",
-            "value": 925
+            "value": 925,
+            "demand": 5
         },
         {
             "name": "Snowcannon",
-            "value": 925
+            "value": 925,
+            "demand": 5
         },
         {
             "name": "Sunset",
-            "value": 525
+            "value": 525,
+            "demand": 4
         },
         {
             "name": "Heart Wand",
-            "value": 425
+            "value": 425,
+            "demand": 4
         },
         {
             "name": "Soul",
-            "value": 355
+            "value": 355,
+            "demand": 4
         },
         {
             "name": "Spirit",
-            "value": 345
+            "value": 345,
+            "demand": 4
         },
         {
             "name": "Rainbow Gun",
-            "value": 300
+            "value": 300,
+            "demand": 4
         },
         {
             "name": "Flora",
-            "value": 290
+            "value": 290,
+            "demand": 4
         },
         {
             "name": "Rainbow",
-            "value": 290
+            "value": 290,
+            "demand": 4
         },
         {
             "name": "Bloom",
-            "value": 280
+            "value": 280,
+            "demand": 4
         },
         {
             "name": "Snow Dagger",
-            "value": 260
+            "value": 260,
+            "demand": 4
         },
         {
             "name": "Flowerwood Gun",
-            "value": 205
+            "value": 205,
+            "demand": 3
         },
         {
             "name": "Flowerwood",
-            "value": 200
+            "value": 200,
+            "demand": 3
         },
         {
             "name": "Xenoknife",
-            "value": 200
+            "value": 200,
+            "demand": 3
         },
         {
             "name": "Xenoshot",
-            "value": 200
+            "value": 200,
+            "demand": 3
         },
         {
             "name": "Treat",
-            "value": 185
+            "value": 185,
+            "demand": 3
         },
         {
             "name": "Sweet",
-            "value": 180
+            "value": 180,
+            "demand": 3
         },
         {
             "name": "Ocean",
-            "value": 175
+            "value": 175,
+            "demand": 3
         },
         {
             "name": "Watergun",
-            "value": 175
+            "value": 175,
+            "demand": 3
         },
         {
             "name": "Waves",
-            "value": 170
+            "value": 170,
+            "demand": 3
         },
         {
             "name": "Blizzard",
-            "value": 155
+            "value": 155,
+            "demand": 3
         },
         {
             "name": "Snowstorm",
-            "value": 155
+            "value": 155,
+            "demand": 3
         },
         {
             "name": "Bat",
-            "value": 125
+            "value": 125,
+            "demand": 3
         },
         {
             "name": "Borealis",
-            "value": 105
+            "value": 105,
+            "demand": 3
         },
         {
             "name": "Candy",
-            "value": 105
+            "value": 105,
+            "demand": 2
         },
         {
             "name": "Australis",
-            "value": 100
+            "value": 100,
+            "demand": 3
         },
         {
             "name": "Heartblade",
-            "value": 80
+            "value": 80,
+            "demand": 2
         },
         {
             "name": "Pearlshine",
-            "value": 55
+            "value": 55,
+            "demand": 2
         },
         {
             "name": "Pearl",
-            "value": 50
+            "value": 50,
+            "demand": 2
         },
         {
             "name": "Luger",
-            "value": 50
+            "value": 50,
+            "demand": 2
         },
         {
             "name": "Candleflame",
-            "value": 45
+            "value": 45,
+            "demand": 2
         },
         {
             "name": "Elderwood Blade",
-            "value": 45
+            "value": 45,
+            "demand": 2
         },
         {
             "name": "Makeshift",
-            "value": 45
+            "value": 45,
+            "demand": 2
         },
         {
             "name": "Red Luger",
-            "value": 45
+            "value": 45,
+            "demand": 2
         },
         {
             "name": "Sugar",
-            "value": 45
+            "value": 45,
+            "demand": 2
         },
         {
             "name": "Phantom",
-            "value": 42
+            "value": 42,
+            "demand": 2
         },
         {
             "name": "Spectre",
-            "value": 42
+            "value": 42,
+            "demand": 2
         },
         {
             "name": "Darkbringer",
-            "value": 42
+            "value": 42,
+            "demand": 2
         },
         {
             "name": "Elderwood Revolver",
-            "value": 42
+            "value": 42,
+            "demand": 2
         },
         {
             "name": "Iceblaster",
-            "value": 42
+            "value": 42,
+            "demand": 2
         },
         {
             "name": "Lightbringer",
-            "value": 38
+            "value": 38,
+            "demand": 2
         },
         {
             "name": "Ornament",
-            "value": 30
+            "value": 30,
+            "demand": 2
         },
         {
             "name": "Green Luger",
-            "value": 30
+            "value": 30,
+            "demand": 2
         },
         {
             "name": "Laser",
-            "value": 27
+            "value": 27,
+            "demand": 2
         },
         {
             "name": "Swirly Gun",
-            "value": 25
+            "value": 25,
+            "demand": 2
         },
         {
             "name": "Amerilaser",
-            "value": 25
+            "value": 25,
+            "demand": 2
         },
         {
             "name": "Hallowgun",
-            "value": 25
+            "value": 25,
+            "demand": 2
         },
         {
             "name": "Icebeam",
-            "value": 25
+            "value": 25,
+            "demand": 2
         },
         {
             "name": "Plasmabeam",
-            "value": 25
+            "value": 25,
+            "demand": 2
         },
         {
             "name": "Iceflake",
-            "value": 23
+            "value": 23,
+            "demand": 2
         },
         {
             "name": "Plasmablade",
-            "value": 23
+            "value": 23,
+            "demand": 2
         },
         {
             "name": "Shark",
-            "value": 23
+            "value": 23,
+            "demand": 2
         },
         {
             "name": "Nightblade",
-            "value": 22
+            "value": 22,
+            "demand": 2
         },
         {
             "name": "Blaster",
-            "value": 20
+            "value": 20,
+            "demand": 2
         },
         {
             "name": "Ginger Luger",
-            "value": 20
+            "value": 20,
+            "demand": 2
         },
         {
             "name": "Pixel",
-            "value": 20
+            "value": 20,
+            "demand": 2
         },
         {
             "name": "Cookiecane",
-            "value": 18
+            "value": 18,
+            "demand": 2
         },
         {
             "name": "Gingermint",
-            "value": 18
+            "value": 18,
+            "demand": 2
         },
         {
             "name": "Lugercane",
-            "value": 18
+            "value": 18,
+            "demand": 2
         },
         {
             "name": "Minty",
-            "value": 18
+            "value": 18,
+            "demand": 2
         },
         {
             "name": "Old Glory",
-            "value": 18
+            "value": 18,
+            "demand": 2
         },
         {
             "name": "Slasher",
-            "value": 18
+            "value": 18,
+            "demand": 2
         },
         {
             "name": "Battleaxe II",
-            "value": 18
+            "value": 18,
+            "demand": 1
         },
         {
             "name": "Eternalcane",
-            "value": 17
+            "value": 17,
+            "demand": 2
         },
         {
             "name": "Jinglegun",
-            "value": 17
+            "value": 17,
+            "demand": 2
         },
         {
             "name": "Virtual",
-            "value": 17
+            "value": 17,
+            "demand": 2
         },
         {
             "name": "Gemstone",
-            "value": 17
+            "value": 17,
+            "demand": 1
         },
         {
             "name": "Gingerblade",
-            "value": 17
+            "value": 17,
+            "demand": 1
         },
         {
             "name": "Swirly Blade",
-            "value": 15
+            "value": 15,
+            "demand": 2
         },
         {
             "name": "Nebula",
-            "value": 15
+            "value": 15,
+            "demand": 2
         },
         {
             "name": "Vampire's Edge",
-            "value": 15
+            "value": 15,
+            "demand": 2
         },
         {
             "name": "Deathshard",
-            "value": 15
+            "value": 15,
+            "demand": 1
         },
         {
             "name": "Battleaxe",
-            "value": 12
+            "value": 12,
+            "demand": 1
         },
         {
             "name": "Bioblade",
-            "value": 10
+            "value": 10,
+            "demand": 1
         },
         {
             "name": "Chill",
-            "value": 10
+            "value": 10,
+            "demand": 1
         },
         {
             "name": "Clockwork",
-            "value": 10
+            "value": 10,
+            "demand": 1
         },
         {
             "name": "Eternal III",
-            "value": 10
+            "value": 10,
+            "demand": 1
         },
         {
             "name": "Eternal IV",
-            "value": 10
+            "value": 10,
+            "demand": 1
         },
         {
             "name": "Fang",
-            "value": 10
+            "value": 10,
+            "demand": 1
         },
         {
             "name": "Frostsaber",
-            "value": 10
+            "value": 10,
+            "demand": 1
         },
         {
             "name": "Heat",
-            "value": 10
+            "value": 10,
+            "demand": 1
         },
         {
             "name": "Spider",
-            "value": 10
+            "value": 10,
+            "demand": 1
         },
         {
             "name": "Tides",
-            "value": 10
+            "value": 10,
+            "demand": 1
         },
         {
             "name": "Eternal",
-            "value": 8
+            "value": 8,
+            "demand": 1
         },
         {
             "name": "Eternal II",
-            "value": 8
+            "value": 8,
+            "demand": 1
         },
         {
             "name": "Hallow's Blade",
-            "value": 8
+            "value": 8,
+            "demand": 1
         },
         {
             "name": "Hallow's Edge",
-            "value": 8
+            "value": 8,
+            "demand": 1
         },
         {
             "name": "Handsaw",
-            "value": 8
+            "value": 8,
+            "demand": 1
         },
         {
             "name": "Xmas",
-            "value": 8
+            "value": 8,
+            "demand": 1
         },
         {
             "name": "Boneblade",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Frostbite",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Ghostblade",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Ice Dragon",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Ice Shard",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Prismatic",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Pumpking",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Saw",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Eggblade",
-            "value": 5
+            "value": 5,
+            "demand": 1
         },
         {
             "name": "Flames",
-            "value": 5
+            "value": 5,
+            "demand": 1
         },
         {
             "name": "Snowflake",
-            "value": 5
+            "value": 5,
+            "demand": 1
         },
         {
             "name": "Winter's Edge",
-            "value": 5
+            "value": 5,
+            "demand": 1
         },
         {
             "name": "Peppermint",
-            "value": 4
+            "value": 4,
+            "demand": 1
         },
         {
             "name": "Cookieblade",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Blue Seer",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Purple Seer",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Red Seer",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Seer",
-            "value": 3
+            "value": 3,
+            "demand": 1
         },
         {
             "name": "Orange Seer",
-            "value": 2
+            "value": 2,
+            "demand": 1
         },
         {
             "name": "Yellow Seer",
-            "value": 2
+            "value": 2,
+            "demand": 1
         }
     ],
     "chromas": [
         {
             "name": "C. Traveler's Gun",
-            "value": 225000
+            "value": 225000,
+            "demand": 9
         },
         {
             "name": "Chroma Evergun",
-            "value": 85000
+            "value": 85000,
+            "demand": 8
         },
         {
             "name": "Chroma Evergreen",
-            "value": 60000
+            "value": 60000,
+            "demand": 7
         },
         {
             "name": "Chroma Bauble",
-            "value": 38000
+            "value": 38000,
+            "demand": 7
         },
         {
             "name": "C. Vampire's Gun",
-            "value": 36000
+            "value": 36000,
+            "demand": 7
         },
         {
             "name": "C. Constellation",
-            "value": 36000
+            "value": 36000,
+            "demand": 7
         },
         {
             "name": "Chroma Alienbeam",
-            "value": 30000
+            "value": 30000,
+            "demand": 7
         },
         {
             "name": "Chroma Raygun",
-            "value": 15750
+            "value": 15750,
+            "demand": 6
         },
         {
             "name": "Chroma Sunrise",
-            "value": 11250
+            "value": 11250,
+            "demand": 6
         },
         {
             "name": "C. Snowcannon",
-            "value": 8500
+            "value": 8500,
+            "demand": 6
         },
         {
             "name": "Chroma Blizzard",
-            "value": 8000
+            "value": 8000,
+            "demand": 5
         },
         {
             "name": "Chroma Sunset",
-            "value": 6500
+            "value": 6500,
+            "demand": 6
         },
         {
             "name": "C. Snow Dagger",
-            "value": 5750
+            "value": 5750,
+            "demand": 6
         },
         {
             "name": "C. Heart Wand",
-            "value": 5500
+            "value": 5500,
+            "demand": 5
         },
         {
             "name": "Chroma Treat",
-            "value": 5500
+            "value": 5500,
+            "demand": 5
         },
         {
             "name": "Chroma Snowstorm",
-            "value": 4250
+            "value": 4250,
+            "demand": 5
         },
         {
             "name": "Chroma Sweet",
-            "value": 3500
+            "value": 3500,
+            "demand": 5
         },
         {
             "name": "Chroma Watergun",
-            "value": 3400
+            "value": 3400,
+            "demand": 5
         },
         {
             "name": "Chroma Ornament",
-            "value": 2750
+            "value": 2750,
+            "demand": 5
         },
         {
             "name": "C. Darkbringer",
-            "value": 85
+            "value": 85,
+            "demand": 2
         },
         {
             "name": "C. Lightbringer",
-            "value": 80
+            "value": 80,
+            "demand": 2
         },
         {
             "name": "Chroma Luger",
-            "value": 57
+            "value": 57,
+            "demand": 2
         },
         {
             "name": "C. Candleflame",
-            "value": 48
+            "value": 48,
+            "demand": 2
         },
         {
             "name": "C. Elderwood Blade",
-            "value": 48
+            "value": 48,
+            "demand": 2
         },
         {
             "name": "Chroma Laser",
-            "value": 48
+            "value": 48,
+            "demand": 2
         },
         {
             "name": "C. Swirly Gun",
-            "value": 47
+            "value": 47,
+            "demand": 2
         },
         {
             "name": "C. Deathshard",
-            "value": 42
+            "value": 42,
+            "demand": 2
         },
         {
             "name": "Chroma Slasher",
-            "value": 42
+            "value": 42,
+            "demand": 2
         },
         {
             "name": "C. Cookiecane",
-            "value": 40
+            "value": 40,
+            "demand": 2
         },
         {
             "name": "Chroma Shark",
-            "value": 40
+            "value": 40,
+            "demand": 2
         },
         {
             "name": "Chroma Fang",
-            "value": 38
+            "value": 38,
+            "demand": 2
         },
         {
             "name": "Chroma Gemstone",
-            "value": 35
+            "value": 35,
+            "demand": 2
         },
         {
             "name": "Chroma Heat",
-            "value": 35
+            "value": 35,
+            "demand": 2
         },
         {
             "name": "C. Gingerblade",
-            "value": 33
+            "value": 33,
+            "demand": 2
         },
         {
             "name": "Chroma Saw",
-            "value": 33
+            "value": 33,
+            "demand": 2
         },
         {
             "name": "Chroma Seer",
-            "value": 33
+            "value": 33,
+            "demand": 2
         },
         {
             "name": "Chroma Tides",
-            "value": 32
+            "value": 32,
+            "demand": 2
         },
         {
             "name": "Chroma Boneblade",
-            "value": 28
+            "value": 28,
+            "demand": 2
         },
         {
             "name": "Chroma Fire Bat",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Chroma Fire Bear",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "C. Fire Bunny",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Chroma Fire Cat",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Chroma Fire Dog",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Chroma Fire Fox",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Chroma Fire Pig",
-            "value": 7
+            "value": 7,
+            "demand": 1
         }
     ],
     "vintages": [
         {
             "name": "Ghost",
-            "value": 10
+            "value": 10,
+            "demand": 1
         },
         {
             "name": "Blood",
-            "value": 8
+            "value": 8,
+            "demand": 1
         },
         {
             "name": "Laser",
-            "value": 8
+            "value": 8,
+            "demand": 1
         },
         {
             "name": "America",
-            "value": 7
+            "value": 7,
+            "demand": 1
         },
         {
             "name": "Prince",
-            "value": 6
+            "value": 6,
+            "demand": 1
         },
         {
             "name": "Shadow",
-            "value": 6
+            "value": 6,
+            "demand": 1
         },
         {
             "name": "Phaser",
-            "value": 5
+            "value": 5,
+            "demand": 1
         },
         {
             "name": "Cowboy",
-            "value": 4
+            "value": 4,
+            "demand": 1
         },
         {
             "name": "Golden",
-            "value": 4
+            "value": 4,
+            "demand": 1
         },
         {
             "name": "Splitter",
-            "value": 3
+            "value": 3,
+            "demand": 1
         }
     ],
     "ancients": [
         {
             "name": "Gingerscope",
-            "value": 17000
+            "value": 17000,
+            "demand": 7
         },
         {
             "name": "Traveler's Axe",
-            "value": 8400
+            "value": 8400,
+            "demand": 6
         },
         {
             "name": "Celestial",
-            "value": 1725
+            "value": 1725,
+            "demand": 5
         },
         {
             "name": "Vampire's Axe",
-            "value": 925
+            "value": 925,
+            "demand": 5
         },
         {
             "name": "Harvester",
-            "value": 300
+            "value": 300,
+            "demand": 3
         },
         {
             "name": "Icepiercer",
-            "value": 200
+            "value": 200,
+            "demand": 3
         },
         {
             "name": "Icebreaker",
-            "value": 85
+            "value": 85,
+            "demand": 2
         },
         {
             "name": "Batwing",
-            "value": 50
+            "value": 50,
+            "demand": 2
         },
         {
             "name": "Elderwood Scythe",
-            "value": 48
+            "value": 48,
+            "demand": 2
         },
         {
             "name": "Swirly Axe",
-            "value": 45
+            "value": 45,
+            "demand": 2
         },
         {
             "name": "Hallowscythe",
-            "value": 35
+            "value": 35,
+            "demand": 2
         },
         {
             "name": "Logchopper",
-            "value": 20
+            "value": 20,
+            "demand": 2
         },
         {
             "name": "Icewing",
-            "value": 15
+            "value": 15,
+            "demand": 2
         }
     ]
 }
