@@ -2256,7 +2256,7 @@
     "rares": [
         {
             "name": "Cane Knife (2018)",
-            "value": 575,
+            "value": 625,
             "demand": 4
         },
         {
@@ -3250,7 +3250,7 @@
         },
         {
             "name": "Evergun",
-            "value": 3400,
+            "value": 3375,
             "demand": 5
         },
         {
@@ -3260,12 +3260,12 @@
         },
         {
             "name": "Evergreen",
-            "value": 2550,
+            "value": 2525,
             "demand": 5
         },
         {
             "name": "Turkey",
-            "value": 2250,
+            "value": 2350,
             "demand": 6
         },
         {
@@ -3280,42 +3280,42 @@
         },
         {
             "name": "Darkshot",
-            "value": 1300,
+            "value": 1330,
             "demand": 6
         },
         {
             "name": "Darksword",
-            "value": 1280,
+            "value": 1310,
             "demand": 6
         },
         {
-            "name": "Raygun",
-            "value": 1200,
+            "name": "Blossom",
+            "value": 1150,
             "demand": 5
         },
         {
-            "name": "Blossom",
-            "value": 1140,
+            "name": "Raygun",
+            "value": 1150,
             "demand": 5
         },
         {
             "name": "Sakura",
-            "value": 1130,
+            "value": 1140,
             "demand": 5
         },
         {
             "name": "Sunrise",
-            "value": 975,
+            "value": 1000,
             "demand": 6
-        },
-        {
-            "name": "Bauble",
-            "value": 925,
-            "demand": 5
         },
         {
             "name": "Snowcannon",
             "value": 925,
+            "demand": 5
+        },
+        {
+            "name": "Bauble",
+            "value": 900,
             "demand": 5
         },
         {
@@ -3325,17 +3325,17 @@
         },
         {
             "name": "Heart Wand",
-            "value": 425,
+            "value": 450,
             "demand": 4
         },
         {
             "name": "Soul",
-            "value": 355,
+            "value": 365,
             "demand": 4
         },
         {
             "name": "Spirit",
-            "value": 345,
+            "value": 355,
             "demand": 4
         },
         {
@@ -3345,7 +3345,7 @@
         },
         {
             "name": "Flora",
-            "value": 290,
+            "value": 295,
             "demand": 4
         },
         {
@@ -3355,7 +3355,7 @@
         },
         {
             "name": "Bloom",
-            "value": 280,
+            "value": 285,
             "demand": 4
         },
         {
@@ -3384,18 +3384,13 @@
             "demand": 3
         },
         {
-            "name": "Treat",
-            "value": 185,
-            "demand": 3
-        },
-        {
-            "name": "Sweet",
+            "name": "Ocean",
             "value": 180,
             "demand": 3
         },
         {
-            "name": "Ocean",
-            "value": 175,
+            "name": "Treat",
+            "value": 180,
             "demand": 3
         },
         {
@@ -3405,7 +3400,12 @@
         },
         {
             "name": "Waves",
-            "value": 170,
+            "value": 175,
+            "demand": 3
+        },
+        {
+            "name": "Sweet",
+            "value": 175,
             "demand": 3
         },
         {
@@ -3459,21 +3459,6 @@
             "demand": 2
         },
         {
-            "name": "Candleflame",
-            "value": 45,
-            "demand": 2
-        },
-        {
-            "name": "Elderwood Blade",
-            "value": 45,
-            "demand": 2
-        },
-        {
-            "name": "Makeshift",
-            "value": 45,
-            "demand": 2
-        },
-        {
             "name": "Red Luger",
             "value": 45,
             "demand": 2
@@ -3481,6 +3466,21 @@
         {
             "name": "Sugar",
             "value": 45,
+            "demand": 2
+        },
+        {
+            "name": "Candleflame",
+            "value": 42,
+            "demand": 2
+        },
+        {
+            "name": "Elderwood Blade",
+            "value": 42,
+            "demand": 2
+        },
+        {
+            "name": "Makeshift",
+            "value": 42,
             "demand": 2
         },
         {
@@ -3544,32 +3544,22 @@
             "demand": 2
         },
         {
-            "name": "Icebeam",
-            "value": 25,
-            "demand": 2
-        },
-        {
-            "name": "Plasmabeam",
-            "value": 25,
-            "demand": 2
-        },
-        {
-            "name": "Iceflake",
-            "value": 23,
-            "demand": 2
-        },
-        {
-            "name": "Plasmablade",
-            "value": 23,
-            "demand": 2
-        },
-        {
             "name": "Shark",
             "value": 23,
             "demand": 2
         },
         {
+            "name": "Icebeam",
+            "value": 22,
+            "demand": 2
+        },
+        {
             "name": "Nightblade",
+            "value": 22,
+            "demand": 2
+        },
+        {
+            "name": "Plasmabeam",
             "value": 22,
             "demand": 2
         },
@@ -3584,7 +3574,17 @@
             "demand": 2
         },
         {
+            "name": "Iceflake",
+            "value": 20,
+            "demand": 2
+        },
+        {
             "name": "Pixel",
+            "value": 20,
+            "demand": 2
+        },
+        {
+            "name": "Plasmablade",
             "value": 20,
             "demand": 2
         },
@@ -3862,7 +3862,7 @@
         },
         {
             "name": "Chroma Evergun",
-            "value": 85000,
+            "value": 83000,
             "demand": 8
         },
         {
@@ -3876,13 +3876,13 @@
             "demand": 7
         },
         {
-            "name": "C. Vampire's Gun",
+            "name": "C. Constellation",
             "value": 36000,
             "demand": 7
         },
         {
-            "name": "C. Constellation",
-            "value": 36000,
+            "name": "C. Vampire's Gun",
+            "value": 35000,
             "demand": 7
         },
         {
@@ -3892,7 +3892,7 @@
         },
         {
             "name": "Chroma Raygun",
-            "value": 15750,
+            "value": 15500,
             "demand": 6
         },
         {
@@ -3913,7 +3913,7 @@
         {
             "name": "Chroma Sunset",
             "value": 6500,
-            "demand": 6
+            "demand": 5
         },
         {
             "name": "C. Snow Dagger",
@@ -3922,12 +3922,12 @@
         },
         {
             "name": "C. Heart Wand",
-            "value": 5500,
+            "value": 5250,
             "demand": 5
         },
         {
             "name": "Chroma Treat",
-            "value": 5500,
+            "value": 5250,
             "demand": 5
         },
         {
@@ -3936,13 +3936,13 @@
             "demand": 5
         },
         {
-            "name": "Chroma Sweet",
-            "value": 3500,
+            "name": "Chroma Watergun",
+            "value": 3400,
             "demand": 5
         },
         {
-            "name": "Chroma Watergun",
-            "value": 3400,
+            "name": "Chroma Sweet",
+            "value": 3250,
             "demand": 5
         },
         {
@@ -3952,12 +3952,12 @@
         },
         {
             "name": "C. Darkbringer",
-            "value": 85,
+            "value": 80,
             "demand": 2
         },
         {
             "name": "C. Lightbringer",
-            "value": 80,
+            "value": 75,
             "demand": 2
         },
         {
@@ -3971,13 +3971,13 @@
             "demand": 2
         },
         {
-            "name": "C. Elderwood Blade",
+            "name": "Chroma Laser",
             "value": 48,
             "demand": 2
         },
         {
-            "name": "Chroma Laser",
-            "value": 48,
+            "name": "C. Elderwood Blade",
+            "value": 47,
             "demand": 2
         },
         {
@@ -4136,7 +4136,7 @@
     "ancients": [
         {
             "name": "Gingerscope",
-            "value": 17000,
+            "value": 17250,
             "demand": 7
         },
         {
